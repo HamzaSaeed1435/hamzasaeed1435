@@ -33,7 +33,7 @@ I enjoy solving real-world production issues, optimizing performance, and design
 JavaScript • TypeScript • Python
 
 ### 🔙 Backend Development
-Node.js • Express.js • REST APIs • WebSockets
+Node.js • Express.js • Nest.js • REST APIs • WebSockets
 
 ### 🗄️ Databases
 PostgreSQL • MySQL • MongoDB
@@ -61,7 +61,7 @@ React.js
 ## 🌐 Connect With Me
 - 📧 Email: **hamzasaeed4689@gmail.com**
 - 💼 LinkedIn: https://linkedin.com/in/hamza-saeed-214044173
-- 🧑‍💻 GitHub: https://github.com/hamzasaeed1435
+- 🧑‍💻 Whatspp: +923009877314
 
 ---
 
